@@ -4,7 +4,7 @@ This was a personal project I completed independently as I wanted to improve my 
 I am also an avid soccer fan from Canada and have always been interested in sports betting. The project looks to guide betting decision making by predicting outrights.
 The model I developed calculates a team's probability of scoring with respect to their Attack Strength (AS) and the Defence Strength (DS) of their opponent.
 The expected probability of scoring in the league is also factored in. 
-AS and DS are calculated with respect to the averages for the team's expected goals (xG), expected goals against (xGA), and the average number of games played.
+These variables are calculated with respect to the averages for a team's expected goals (xG), expected goals against (xGA), and the average number of games played.
 Using the associated probabilities for AS, DS, and the probability of scoring in the league, I use a poisson distribution to simulate different score lines. 
 All matches are simulated and advancement to the Round of 16 from the Group Stage follows the standard points convention with the top two teams advancing.
 All related csv and xlsx files can be found in the "data" folder, whereas non-output figures can be found in "images". 
