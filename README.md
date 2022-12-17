@@ -10,5 +10,5 @@ Using the associated probabilities for AS, DS, and the probability of scoring in
 All matches are simulated and advancement to the Round of 16 from the Group Stage follows the standard points convention with the top two teams advancing.
 All related csv and xlsx files can be found in the "data" folder, whereas non-output figures can be found in "images". 
 The "Predictions Workbook" file shows all code and work conducted for analysis. 
-The "Predictions Report Notebook" and "Predictions Report PDF" files analyze the findings from the workbook and comment on the results.
+The "Predictions Report" files analyze the findings from the workbook and comments on the results.
 Best of luck to all the teams in the tournament, and go Canada!
